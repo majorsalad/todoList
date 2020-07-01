@@ -8,7 +8,7 @@ Ah, the todo-list. Something everyone has worked on before, however, I believe i
 
 -> The instructions for the app are explained on the webpage. It's as simple as that.
 -> Routes: if you add a path to the link, you will create a new todolist and customize that one. 
-Ex) https://boiling-wildwood-99643.herokuapp.com/school/ will create a "School" todolist for you. You can make as many customizable todolists as you want as long as you remember their paths. And the database will save your todolist items on each one.
+Ex) Adding "school" after the final backslash of the base URL will create a "School" todolist for you after you have visited the base website. You can make as many customizable todolists as you want as long as you remember their paths. And the database will save your todolist items on each one.
 
 
 # What I learned
