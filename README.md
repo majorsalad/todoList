@@ -1,5 +1,5 @@
 # TodoList [Using NodeJS and MongoDB]
-Ah, the todo-list. Something everyone has worked on before, however, I believe it to be an essential project in anyone's repertoire. The reason being is because it connects a lot of different strategies and technologies. Besides, who doesn't love a good todo-list?
+Ah, the todo-list. Something everyone has worked on before, however, I believe it to be an essential project in anyone's repertoire. The reason being is because it connects a lot of different strategies, concepts and technologies. Besides, who doesn't love a good todo-list?
 
 # How it works
 - Must have the required node packages installed and the knowledge of how to use the terminal if you wish to use this locally
